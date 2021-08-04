@@ -1,0 +1,2 @@
+# nci_hints
+The Health Information National Trends Survey (HINTS) regularly collects nationally representative data about the American public’s knowledge of, attitudes toward, and use of cancer- and health-related information. HINTS data are used to monitor changes in the rapidly evolving fields of health communication and health information technology and to create more effective health communication strategies across different populations.  HINTS nationally representative data is publicly available for researchers and health professionals to use for their own analyses. 
